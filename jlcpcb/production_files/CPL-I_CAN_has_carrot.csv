@@ -1,0 +1,14 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_0603_1608Metric,132.59,-54.25,-90.0,top
+C2,10u,C_0603_1608Metric,119.75,-53.0,-90.0,top
+C3,10u,C_0603_1608Metric,118.75,-56.25,0.0,top
+C4,100n,C_0603_1608Metric,118.75,-58.0,0.0,top
+C5,100n,C_0603_1608Metric,118.0,-53.0,-90.0,top
+J1,CAN_Term,PinHeader_1x02_P2.54mm_Vertical,107.41,-58.25,270.0,top
+J2,ERB_V1.0_INTERFACE,PinSocket_2x07_P2.54mm_Vertical,139.0,-63.0,0.0,top
+J3,Conn_01x02,PinHeader_1x02_P2.54mm_Horizontal,102.0,-63.0,270.0,top
+J4,SKR_PICO_INTERFACE,PinHeader_1x05_P2.54mm_Vertical,117.56,-63.0,0.0,top
+J5,Conn_01x02,PinHeader_1x02_P2.54mm_Horizontal,102.0,-55.275,270.0,top
+R1,120,R_0603_1608Metric,110.25,-56.25,90.0,top
+U1,LD1117S33TR_SOT223,SOT-223-3_TabPin2,126.59,-54.65,0.0,top
+U2,TCAN1042HGVDRQ1,SOIC-8_3.9x4.9mm_P1.27mm,114.095,-57.225,0.0,top
